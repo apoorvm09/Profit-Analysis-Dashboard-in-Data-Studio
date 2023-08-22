@@ -1,6 +1,6 @@
 # Superstore Performance Dashboard using Google Data Studio (Looker Studio)
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/apoorvm09/Superstore-Performance-Dashboard--in-Data-Studio/blob/main/Profit%20Analysis%20Dashboard%20Screenshot.png)
 
 Dashboard Preview- Welcome to the Superstore Performance Dashboard project! This repository contains a comprehensive dashboard created using Google Data Studio (formerly Looker Studio). The dashboard is designed to provide valuable insights into the profit earned from various perspectives within the famous Superstore dataset. The analysis includes profit breakdowns by different dimensions, such as time, product, state, and region. This dashboard aims to assist the top management in making data-driven decisions and analyzing the overall performance of the Superstore.
 
